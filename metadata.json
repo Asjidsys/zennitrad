@@ -1,0 +1,5 @@
+{
+  "name": "n8n Agent Chat Interface",
+  "description": "A responsive, WhatsApp-style chat interface that communicates with an n8n webhook endpoint to provide real-time AI agent interactions. It maintains session context using local storage and features a clean, user-friendly design.",
+  "requestFramePermissions": []
+}
